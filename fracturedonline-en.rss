@@ -1,233 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:media="http://search.yahoo.com/mrss/"
-	>
-
-<channel>
-	<title>FracturedOnlineglyph &#8211; Fractured Online</title>
-	<atom:link href="https://www.trionworlds.com/fracturedonline/en/tag/glyph/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.fracturedmmo.com</link>
-	<description>Fractured Online</description>
-	<lastBuildDate>Tue, 19 Apr 2022 16:51:33 +0000</lastBuildDate>
-	<language>en-US</language>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>FracturedOnlineglyph &#8211; Fractured Online</title>
+		<atom:link href="https://www.trionworlds.com/fracturedonline/en/tag/glyph/feed/" rel="self" type="application/rss+xml"/>
+		<link>https://www.fracturedmmo.com</link>
+		<description>Fractured Online</description>
+		<lastBuildDate>Tue, 19 Apr 2022 16:51:33 +0000</lastBuildDate>
+		<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
-
-<image>
-	<url>https://sitecdn.trionworlds.com/uploads/2022/01/c2be9d6c-cropped-086b823b-512x512-trove-32x32.png</url>
-	<title>glyph &#8211; Fractured</title>
-	<link>https://www.trionworlds.com/trove/en/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>Closed Beta Open</title>
-		<link>https://www.trionworlds.com/trove/en/2022/04/19/chaotic-april-weather-sale-until-april-26-2022/</link>
-		<comments>https://www.trionworlds.com/trove/en/2022/04/19/chaotic-april-weather-sale-until-april-26-2022/#respond</comments>
-		<pubDate>Tue, 19 Apr 2022 16:50:51 +0000</pubDate>
-		<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/ad36c327-sale1904blogthumben.png" />
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[glyph]]></category>
-
-		<guid isPermaLink="false">https://www.trionworlds.com/trove/?p=20655</guid>
-		<description><![CDATA[April showers bring May flowers!Discover our amazing offers that will help you escape the chaotic April weather. Take advantage of these special deals from April 19, 2022 at 11:00 AM...</p><p><a class="read-more" href="https://www.trionworlds.com/trove/en/2022/04/19/chaotic-april-weather-sale-until-april-26-2022/" title="Read More">Read More</a>]]></description>
-				<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/cd7cf3df-sale1904blogbanner.png"><img width="720" height="322" src="https://sitecdn.trionworlds.com/uploads/2022/04/cd7cf3df-sale1904blogbanner.png" alt="" class="wp-image-20656" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/cd7cf3df-sale1904blogbanner.png 720w, https://sitecdn.trionworlds.com/uploads/2022/04/cd7cf3df-sale1904blogbanner-300x134.png 300w, https://sitecdn.trionworlds.com/uploads/2022/04/cd7cf3df-sale1904blogbanner-604x270.png 604w" sizes="(max-width: 720px) 100vw, 720px" /></a></figure></div>
-
-
-
-<p>April showers bring May flowers!<br>Discover our amazing offers that will help you escape the chaotic April weather.<br><br>Take advantage of these special deals <strong>from April 19, 2022 at 11:00 AM UTC until April 26, 2022 at 11:00 AM UTC</strong> &#8211; in our in-game store on all platforms!</p>
-
-
-
-<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/045862e2-sale1904_chests.png"><img loading="lazy" width="353" height="164" src="https://sitecdn.trionworlds.com/uploads/2022/04/045862e2-sale1904_chests.png" alt="" class="wp-image-20659" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/045862e2-sale1904_chests.png 353w, https://sitecdn.trionworlds.com/uploads/2022/04/045862e2-sale1904_chests-300x139.png 300w" sizes="(max-width: 353px) 100vw, 353px" /></a></figure></div>
-
-
-
-<p class="has-text-align-center"><strong>11 Chaos Chests with a 15% discount<br>110 Chaos Chests with 20% discount</strong></p>
-
-
-
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/8cd7c8ae-sale1904_wings.png"><img loading="lazy" width="189" height="164" src="https://sitecdn.trionworlds.com/uploads/2022/04/8cd7c8ae-sale1904_wings.png" alt="" class="wp-image-20662" /></a></figure></div>
-
-
-
-<p class="has-text-align-center"><strong>Stormcallerâ€™s Wings with a 20% discount</strong></p>
-
-
-
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/4f1f57a3-sale1904_skins.png"><img loading="lazy" width="455" height="288" src="https://sitecdn.trionworlds.com/uploads/2022/04/4f1f57a3-sale1904_skins.png" alt="" class="wp-image-20665" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/4f1f57a3-sale1904_skins.png 455w, https://sitecdn.trionworlds.com/uploads/2022/04/4f1f57a3-sale1904_skins-300x190.png 300w" sizes="(max-width: 455px) 100vw, 455px" /></a></figure></div>
-
-
-
-<p class="has-text-align-center"><strong>Red Storm (Lunar Lancer costume) with a 20% discount<br>Winter Ranger (Boomeranger costume) with a 16% discount<br>Black Ice (Ice Sage costume) with a 16% discount</strong></p>
-
-
-
-<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Best wishes,<br>The Trove Team!</p>
-]]></content:encoded>
+		<generator>https://wordpress.org/?v=5.9</generator>
+		<image>
+			<url>https://sitecdn.trionworlds.com/uploads/2022/01/c2be9d6c-cropped-086b823b-512x512-trove-32x32.png</url>
+			<title>glyph &#8211; Fractured</title>
+			<link>https://www.trionworlds.com/trove/en/</link>
+			<width>32</width>
+			<height>32</height>
+		</image>
+		<item>
+			<title>Closed Beta Open</title>
+			<link>https://www.trionworlds.com/trove/en/2022/04/19/chaotic-april-weather-sale-until-april-26-2022/</link>
+			<comments>https://www.trionworlds.com/trove/en/2022/04/19/chaotic-april-weather-sale-until-april-26-2022/#respond</comments>
+			<pubDate>Tue, 19 Apr 2022 16:50:51 +0000</pubDate>
+			<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/ad36c327-sale1904blogthumben.png"/>
+			<category><![CDATA[Uncategorized]]></category>
+			<category><![CDATA[glyph]]></category>
+			<guid isPermaLink="false">https://www.trionworlds.com/trove/?p=20655</guid>
+			<description><![CDATA[April showers bring May flowers!Discover our amazing offers that will help you escape the chaotic April weather. Take advantage of these special deals from April 19, 2022 at 11:00 AM...</p><p><a class="read-more" href="https://www.trionworlds.com/trove/en/2022/04/19/chaotic-april-weather-sale-until-april-26-2022/" title="Read More">Read More</a>]]></description>
 			<wfw:commentRss>https://www.trionworlds.com/trove/en/2022/04/19/chaotic-april-weather-sale-until-april-26-2022/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+			<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>The Golden Dragon Effigy Offer â€“ Until April 18, 2022!</title>
-		<link>https://www.trionworlds.com/trove/en/2022/04/15/the-golden-dragon-effigy-offer-until-april-18-2022/</link>
-		<comments>https://www.trionworlds.com/trove/en/2022/04/15/the-golden-dragon-effigy-offer-until-april-18-2022/#respond</comments>
-		<pubDate>Fri, 15 Apr 2022 11:15:37 +0000</pubDate>
-		<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/81da5215-effigy_blog_thumb_en.jpg" />
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[glyph]]></category>
-
-		<guid isPermaLink="false">https://www.trionworlds.com/trove/?p=20554</guid>
-		<description><![CDATA[The Golden Dragon Effigy is back! Take advantage of our amazing offer on the Golden Dragon Effigy, which will start on April 15, 2022 at 11:00 am UTC and end...</p><p><a class="read-more" href="https://www.trionworlds.com/trove/en/2022/04/15/the-golden-dragon-effigy-offer-until-april-18-2022/" title="Read More">Read More</a>]]></description>
-				<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/f06d5753-effigy_blog_banner.jpg"><img loading="lazy" width="720" height="322" src="https://sitecdn.trionworlds.com/uploads/2022/04/f06d5753-effigy_blog_banner.jpg" alt="" class="wp-image-20623" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/f06d5753-effigy_blog_banner.jpg 720w, https://sitecdn.trionworlds.com/uploads/2022/04/f06d5753-effigy_blog_banner-300x134.jpg 300w, https://sitecdn.trionworlds.com/uploads/2022/04/f06d5753-effigy_blog_banner-604x270.jpg 604w" sizes="(max-width: 720px) 100vw, 720px" /></a></figure></div>
-
-
-
-<p>The Golden Dragon Effigy is back!</p>
-
-
-
-<p>Take advantage of our amazing offer on the Golden Dragon Effigy, which will start on <strong>April 15, 2022 at 11:00 am UTC and end on April 18, 2022 at 11:00 am UTC</strong>!</p>
-
-
-
-<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-text-align-center"><strong>For the purchase of a credit pack with a minimum value of 49,99 EUR/USD, you will receive a Golden Dragon Effigy as a gift!</strong></p>
-
-
-
-<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Important Notes</strong>:</p>
-
-
-
-<p>â€¢ Both the regular and first time buyer credit packs (with +20% bonus) with a value of at least 49,99 EUR/USD (8500 Credits) are eligible for this promotion.<br>â€¢ This promotion is not valid for the purchase of credit pouches.<br>â€¢ Each account can only receive the effigy once in the event period.<br>â€¢ This offer is only valid for packs with a minimum value of 49.99 EUR/USD. If you buy multiple packs to get the amount, those purchases will not count towards getting the Golden Dragon Effigy.<br>â€¢ This offer is valid on all plattforms.<br>â€¢ The Golden Dragon Effigy unlocks a random Legendary Dragon that you have not yet unlocked. This does not include Ancestral or Primal Dragons.</p>
-
-
-
-<p>Have fun in Trove!</p>
-
-
-
-<p>Best wishes,<br>Your Trove Team!</p>
-]]></content:encoded>
+			<title>Founders Packs on Sale</title>
+			<link>https://www.trionworlds.com/trove/en/2022/04/15/the-golden-dragon-effigy-offer-until-april-18-2022/</link>
+			<comments>https://www.trionworlds.com/trove/en/2022/04/15/the-golden-dragon-effigy-offer-until-april-18-2022/#respond</comments>
+			<pubDate>Fri, 15 Apr 2022 11:15:37 +0000</pubDate>
+			<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/81da5215-effigy_blog_thumb_en.jpg"/>
+			<category><![CDATA[Uncategorized]]></category>
+			<category><![CDATA[glyph]]></category>
+			<guid isPermaLink="false">https://www.trionworlds.com/trove/?p=20554</guid>
+			<description><![CDATA[Purchase a Founder's pack gain access to Beta.</p><p><a class="read-more]]" href="https://www.trionworlds.com/trove/en/2022/04/15/the-golden-dragon-effigy-offer-until-april-18-2022/" title="Read More">Read More</a>]]></description>
 			<wfw:commentRss>https://www.trionworlds.com/trove/en/2022/04/15/the-golden-dragon-effigy-offer-until-april-18-2022/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+			<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Luxion returns with many Mounts &#8211; Until April 18, 2022!</title>
-		<link>https://www.trionworlds.com/trove/en/2022/04/15/luxion-returns-with-many-mounts-until-april-18-2022/</link>
-		<comments>https://www.trionworlds.com/trove/en/2022/04/15/luxion-returns-with-many-mounts-until-april-18-2022/#respond</comments>
-		<pubDate>Fri, 15 Apr 2022 11:06:19 +0000</pubDate>
-		<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/2f37bacf-luxion1504thumb.png" />
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[glyph]]></category>
-
-		<guid isPermaLink="false">https://www.trionworlds.com/trove/?p=20544</guid>
-		<description><![CDATA[Luxion returns to ring in the weekend with a plethora of mounts. Donâ€™t miss this chance to complete your collections! Luxion will be waiting for you in the Lightâ€™s Den...</p><p><a class="read-more" href="https://www.trionworlds.com/trove/en/2022/04/15/luxion-returns-with-many-mounts-until-april-18-2022/" title="Read More">Read More</a>]]></description>
-				<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/3c77811a-luxion1504blogbanner.png"><img loading="lazy" width="720" height="322" src="https://sitecdn.trionworlds.com/uploads/2022/04/3c77811a-luxion1504blogbanner.png" alt="" class="wp-image-20556" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/3c77811a-luxion1504blogbanner.png 720w, https://sitecdn.trionworlds.com/uploads/2022/04/3c77811a-luxion1504blogbanner-300x134.png 300w, https://sitecdn.trionworlds.com/uploads/2022/04/3c77811a-luxion1504blogbanner-604x270.png 604w" sizes="(max-width: 720px) 100vw, 720px" /></a></figure></div>
-
-
-
-<p>Luxion returns to ring in the weekend with a plethora of mounts. Donâ€™t miss this chance to complete your collections!<br><br>Luxion will be waiting for you in the Lightâ€™s Den <strong>from April 15 and will magically disappear on April 18 at 11:00 am UTC</strong>. </p>
-
-
-
-<p>Enjoy a preview of some the gorgeous items that our majestic dragon has to offer this time:</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-5 is-cropped">
-<figure class="wp-block-image size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-meowmalade.png"><img loading="lazy" width="266" height="275" data-id="20559"  src="https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-meowmalade.png" alt="" class="wp-image-20559" /></a><figcaption>Meowmalade</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-overlord-omniseat.png"><img loading="lazy" width="363" height="254" data-id="20560"  src="https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-overlord-omniseat.png" alt="" class="wp-image-20560" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-overlord-omniseat.png 363w, https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-overlord-omniseat-300x210.png 300w" sizes="(max-width: 363px) 100vw, 363px" /></a><figcaption>Overlord Omniseat</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large is-style-default"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-spawn-of-the-moontouched-menace.png"><img loading="lazy" width="287" height="272" data-id="20561"  src="https://sitecdn.trionworlds.com/uploads/2022/04/ebf02a73-spawn-of-the-moontouched-menace.png" alt="" class="wp-image-20561" /></a><figcaption>Spawn of the Moontouched Menace</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large is-style-default"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/710f39d3-trovian-supercycle.png"><img loading="lazy" width="375" height="313" data-id="20567"  src="https://sitecdn.trionworlds.com/uploads/2022/04/710f39d3-trovian-supercycle.png" alt="" class="wp-image-20567" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/710f39d3-trovian-supercycle.png 375w, https://sitecdn.trionworlds.com/uploads/2022/04/710f39d3-trovian-supercycle-300x250.png 300w" sizes="(max-width: 375px) 100vw, 375px" /></a><figcaption>Trovian Supercycle</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large is-style-default"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/3c480f06-wyrdwind-voltergeist.png"><img loading="lazy" width="322" height="295" data-id="20564"  src="https://sitecdn.trionworlds.com/uploads/2022/04/3c480f06-wyrdwind-voltergeist.png" alt="" class="wp-image-20564" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/3c480f06-wyrdwind-voltergeist.png 322w, https://sitecdn.trionworlds.com/uploads/2022/04/3c480f06-wyrdwind-voltergeist-300x275.png 300w" sizes="(max-width: 322px) 100vw, 322px" /></a><figcaption>Wyrdwind Voltergeist</figcaption></figure>
-</figure>
-
-
-
-<p>What are you waiting for? Grab your dragon coins and hurry up, dear Trovians!</p>
-
-
-
-<p><em>Luxionâ€™s loot is a way for players who have missed out on time-limited items in the past to collect them directly. You will also find brand new items change out periodically for a higher amount of Dragon Coins. Items will repeat eventually, but it may take a while for a specific loot item to return, so be sure to check back every visit!</em></p>
-]]></content:encoded>
+			<title>Join us on Discord</title>
+			<link>https://www.trionworlds.com/trove/en/2022/04/15/luxion-returns-with-many-mounts-until-april-18-2022/</link>
+			<comments>https://www.trionworlds.com/trove/en/2022/04/15/luxion-returns-with-many-mounts-until-april-18-2022/#respond</comments>
+			<pubDate>Fri, 15 Apr 2022 11:06:19 +0000</pubDate>
+			<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/2f37bacf-luxion1504thumb.png"/>
+			<category><![CDATA[Uncategorized]]></category>
+			<category><![CDATA[glyph]]></category>
+			<guid isPermaLink="false">https://www.trionworlds.com/trove/?p=20544</guid>
+			<description><![CDATA[Join our community on Discord.]]></description>
 			<wfw:commentRss>https://www.trionworlds.com/trove/en/2022/04/15/luxion-returns-with-many-mounts-until-april-18-2022/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+			<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Celebrate the Bunfest in Trove!</title>
-		<link>https://www.trionworlds.com/trove/en/2022/04/07/celebrate-the-bunfest-in-trove/</link>
-		<comments>https://www.trionworlds.com/trove/en/2022/04/07/celebrate-the-bunfest-in-trove/#respond</comments>
-		<pubDate>Thu, 07 Apr 2022 11:33:19 +0000</pubDate>
-		<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/19fd75a7-bunfestthumb.jpg" />
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[glyph]]></category>
-
-		<guid isPermaLink="false">https://www.trionworlds.com/trove/?p=20523</guid>
-		<description><![CDATA[Enjoy the 2022 Bunfest event and discover many festive decoration items for your club world or cornerstone. Decorate your club world or cornerstone in a festive way and share your...</p><p><a class="read-more" href="https://www.trionworlds.com/trove/en/2022/04/07/celebrate-the-bunfest-in-trove/" title="Read More">Read More</a>]]></description>
-				<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://sitecdn.trionworlds.com/uploads/2022/04/3f7ec049-bunfestblogbanner.jpg"><img loading="lazy" width="720" height="322" src="https://sitecdn.trionworlds.com/uploads/2022/04/3f7ec049-bunfestblogbanner.jpg" alt="" class="wp-image-20524" srcset="https://sitecdn.trionworlds.com/uploads/2022/04/3f7ec049-bunfestblogbanner.jpg 720w, https://sitecdn.trionworlds.com/uploads/2022/04/3f7ec049-bunfestblogbanner-300x134.jpg 300w, https://sitecdn.trionworlds.com/uploads/2022/04/3f7ec049-bunfestblogbanner-604x270.jpg 604w" sizes="(max-width: 720px) 100vw, 720px" /></a></figure></div>
-
-
-
-<p>Enjoy the 2022 Bunfest event and discover many festive decoration items for your club world or cornerstone.<br><br>Decorate your club world or cornerstone in a festive way and share your Bunfest-themed creation with the Trove community to win egg-citing rewards!<br><br>Share the screenshot of your decorated club world or cornerstone<a href="https://discord.com/invite/trovegame"> on our Discord server</a> <strong>until April 19, 2022 at 11:00 AM UTC</strong>!<br>Each valid entry will receive 1x Dev Dream and 3 players from all valid entries will be drawn and win this yearâ€™s new event pack: Sunrise Spring (or 3000 Credits for those who already own the pack)!</p>
-
-
-
-<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Conditions of participation</strong>:</p>
-
-
-
-<p>â€¢&nbsp;&nbsp;&nbsp; The general rules apply to this event.<br>â€¢&nbsp;&nbsp;&nbsp; You can only participate once per discord account and player.<br>â€¢&nbsp;&nbsp;&nbsp; You must enter your character name, your platform, your region, including the screenshot of your Bunfest-themed club world or cornerstone, in the entry post.<br>â€¢&nbsp;&nbsp;&nbsp; The deadline for participation in the event ends at <strong>April 19, 2022 at 11:00 AM UTC</strong>.<br>â€¢&nbsp;&nbsp;&nbsp; The team membersâ€™ decisions are final.</p>
-
-
-
-<p>Happy Bunfest to everybody!</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.trionworlds.com/trove/en/2022/04/07/celebrate-the-bunfest-in-trove/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+	
 	</channel>
 </rss>
