@@ -10,10 +10,10 @@
 	>
 
 <channel>
-	<title>Fracturedglyph &#8211; Fractured</title>
-	<atom:link href="https://www.trionworlds.com/trove/en/tag/glyph/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.trionworlds.com/trove/en/</link>
-	<description>The exciting Voxel MMO Adventure - play now for free!</description>
+	<title>FracturedOnlineglyph &#8211; Fractured Online</title>
+	<atom:link href="https://www.trionworlds.com/fracturedonline/en/tag/glyph/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.fracturedmmo.com</link>
+	<description>Fractured Online</description>
 	<lastBuildDate>Tue, 19 Apr 2022 16:51:33 +0000</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
