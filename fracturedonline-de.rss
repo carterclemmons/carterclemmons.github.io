@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>FracturedOnlineglyph &#8211; Fractured Online</title>
+		<atom:link href="https://www.trionworlds.com/fracturedonline/en/tag/glyph/feed/" rel="self" type="application/rss+xml"/>
+		<link>https://www.fracturedmmo.com</link>
+		<description>Fractured Online</description>
+		<lastBuildDate>Tue, 19 Apr 2022 16:51:33 +0000</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=5.9</generator>
+		<image>
+			<url>https://sitecdn.trionworlds.com/uploads/2022/01/c2be9d6c-cropped-086b823b-512x512-trove-32x32.png</url>
+			<title>glyph &#8211; Fractured</title>
+			<link>https://www.trionworlds.com/trove/en/</link>
+			<width>32</width>
+			<height>32</height>
+		</image>
+		<item>
+			<title>Jetzt Beta spielen!</title>
+			<link>https://fracturedonline.glyph.net/account/profile/manage-game!input.action?dd=1</link>
+			<comments>https://fracturedonline.glyph.net/account/profile/manage-game!input.action?dd=1</comments>
+			<pubDate>Tue, 19 Apr 2022 16:50:51 +0000</pubDate>
+			<media:thumbnail url="https://webcdn.triongames.com/glyph/fractured/Open-Beta.jpg"/>
+			<category><![CDATA[Uncategorized]]></category>
+			<category><![CDATA[glyph]]></category>
+			<guid isPermaLink="false">https://fracturedonline.glyph.net/account/profile/manage-game!input.action?dd=1</guid>
+			<description><![CDATA[Werde Gründer und erhalte direkt Zugang zur Beta!]]></description>
+			<content:encoded><![CDATA[
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://webcdn.triongames.com/glyph/fractured/Open-Beta.jpg"><img loading="lazy" width="720" height="322" src="https://webcdn.triongames.com/glyph/fractured/Open-Beta.jpg" alt="" class="wp-image-20524" srcset="https://webcdn.triongames.com/glyph/fractured/Open-Beta.jpg 720w, https://webcdn.triongames.com/glyph/fractured/Open-Beta.jpg 300w, https://webcdn.triongames.com/glyph/fractured/Open-Beta.jpg 604w" sizes="(max-width: 720px) 100vw, 720px" /></a></figure></div>]]>
+</content:encoded>
+			<wfw:commentRss>https://fracturedonline.glyph.net/account/profile/manage-game!input.action?dd=1</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+			<title>Roadmap 2022</title>
+			<link>https://fracturedmmo.com/fractured-online-roadmap/</link>
+			<comments>https://fracturedmmo.com/fractured-online-roadmap/</comments>
+			<pubDate>Fri, 15 Apr 2022 11:15:37 +0000</pubDate>
+			<media:thumbnail url="https://webcdn.triongames.com/glyph/fractured/Glyph.jpg"/>
+			<category><![CDATA[Uncategorized]]></category>
+			<category><![CDATA[glyph]]></category>
+			<guid isPermaLink="false">https://fracturedmmo.com/fractured-online-roadmap/</guid>
+			<description><![CDATA[Finde heraus, was wir für Fractured geplant haben!]]></description>
+			<content:encoded><![CDATA[
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://webcdn.triongames.com/glyph/fractured/Glyph.jpg"><img loading="lazy" width="720" height="322" src="https://webcdn.triongames.com/glyph/fractured/Glyph.jpg" alt="" class="wp-image-20524" srcset="https://webcdn.triongames.com/glyph/fractured/Glyph.jpg 720w, https://webcdn.triongames.com/glyph/fractured/Glyph.jpg 300w, https://webcdn.triongames.com/glyph/fractured/Glyph.jpg 604w" sizes="(max-width: 720px) 100vw, 720px" /></a></figure></div>]]>
+</content:encoded>
+			<wfw:commentRss>https://fracturedmmo.com/fractured-online-roadmap/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+			<title>Neuer Kontinent</title>
+			<link>https://fracturedmmo.com/feature-spotlight-new-continent/</link>
+			<comments>https://fracturedmmo.com/feature-spotlight-new-continent/</comments>
+			<pubDate>Fri, 15 Apr 2022 11:06:19 +0000</pubDate>
+			<media:thumbnail url="https://sitecdn.trionworlds.com/uploads/2022/04/2f37bacf-luxion1504thumb.png"/>
+			<category><![CDATA[Uncategorized]]></category>
+			<category><![CDATA[glyph]]></category>
+			<guid isPermaLink="false">https://fracturedmmo.com/feature-spotlight-new-continent/</guid>
+			<description><![CDATA[Entdecke Aerhen, den neuesten Kontinent!]]></description>
+			<content:encoded><![CDATA[
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><a href="https://webcdn.triongames.com/glyph/fractured/Feature-Spotlight.jpg"><img loading="lazy" width="720" height="322" src="https://webcdn.triongames.com/glyph/fractured/Feature-Spotlight.jpg" alt="" class="wp-image-20524" srcset="https://webcdn.triongames.com/glyph/fractured/Feature-Spotlight.jpg 720w, https://webcdn.triongames.com/glyph/fractured/Feature-Spotlight.jpg 300w, https://webcdn.triongames.com/glyph/fractured/Feature-Spotlight.jpg 604w" sizes="(max-width: 720px) 100vw, 720px" /></a></figure></div>]]>
+</content:encoded>
+			<wfw:commentRss>https://fracturedmmo.com/feature-spotlight-new-continent/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
